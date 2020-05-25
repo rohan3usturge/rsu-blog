@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Technical Blog`,
+    title: `Full Stack Programming`,
     author: `Rohan Usturge`,
     description: `A technical blog with lessons learnt in day to day programming world.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://rohanusturge.com/`,
     social: {
       github: `rohan3usturge`,
     },
