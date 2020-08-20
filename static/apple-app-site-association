@@ -1,12 +1,13 @@
 {
+  "appclips": {
+    "apps": ["TY3P9FA953.ca.walmart.appclipspoc.checkin"]
+  },
   "applinks": {
     "apps": [],
     "details": [
       {
         "appID": "TY3P9FA953.ca.walmart.appclipspoc",
-        "paths": [
-          "*"
-        ]
+        "paths": ["*"]
       }
     ]
   }
